@@ -1,0 +1,4 @@
+interface:
+  display_name: "上海大学学术报告海报"
+  short_description: "从报告 Word 文档生成固定蓝白版式海报，导出高清图片、PDF和可编辑PPTX"
+  default_prompt: "使用 $shu-academic-poster，根据我提供的报告文档生成同款学术海报，并核对活动信息和最终排版。"

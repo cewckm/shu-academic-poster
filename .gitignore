@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 本地状态与密钥：绝不进仓库
+_token.txt
+.git-credentials
+config.json
+last-api-push.json
+
+# 生成产物
+render/
+*.build.json
+test.pptx
+
+# Windows
+Thumbs.db
+desktop.ini
